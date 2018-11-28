@@ -1,0 +1,15 @@
+imprime export default {
+	"project-name": "$defaultName",
+	"teste": 10
+}
+
+console.log(imprime)
+
+
+Promisses:
+
+As promessas fornecem uma alternativa mais simples para 
+executar, compor e gerenciar operações assíncronas quando
+comparadas a abordagens tradicionais baseadas em retorno 
+de chamada. Eles também permitem que você lide com erros
+assíncronos usando abordagens similares a síncronas.

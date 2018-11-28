@@ -1,0 +1,18 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "igorlaur",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "nodemon": "^1.18.6"
+  },
+  "devDependencies": {
+    "path": "^0.12.7"
+  }
+}

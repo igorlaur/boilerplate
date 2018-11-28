@@ -1,0 +1,5 @@
+Streams são estruturas Node.js que lhe permitem manipular dados. Existem três conceitos importantes que você deve entender:
+
+source – o objeto de onde seus dados vêm;
+pipeline – por onde seus dados passam (você pode filtrar ou modificar eles aqui);
+sink – onde seus dados vão parar (terminam);
